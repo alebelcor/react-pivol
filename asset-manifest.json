@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react-pivol/static/js/main.dfc0589c.chunk.js",
+    "main.js.map": "/react-pivol/static/js/main.dfc0589c.chunk.js.map",
+    "runtime-main.js": "/react-pivol/static/js/runtime-main.08fffc3d.js",
+    "runtime-main.js.map": "/react-pivol/static/js/runtime-main.08fffc3d.js.map",
+    "static/css/2.bb342caa.chunk.css": "/react-pivol/static/css/2.bb342caa.chunk.css",
+    "static/js/2.642773eb.chunk.js": "/react-pivol/static/js/2.642773eb.chunk.js",
+    "static/js/2.642773eb.chunk.js.map": "/react-pivol/static/js/2.642773eb.chunk.js.map",
+    "index.html": "/react-pivol/index.html",
+    "precache-manifest.067da18fa32b119a8f26dcae82e78546.js": "/react-pivol/precache-manifest.067da18fa32b119a8f26dcae82e78546.js",
+    "service-worker.js": "/react-pivol/service-worker.js",
+    "static/css/2.bb342caa.chunk.css.map": "/react-pivol/static/css/2.bb342caa.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08fffc3d.js",
+    "static/css/2.bb342caa.chunk.css",
+    "static/js/2.642773eb.chunk.js",
+    "static/js/main.dfc0589c.chunk.js"
+  ]
+}
